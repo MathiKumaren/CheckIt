@@ -1,0 +1,9 @@
+F:\Projects\NugetConsole\NugetConsole\bin\Release\NugetConsole.exe.config
+F:\Projects\NugetConsole\NugetConsole\bin\Release\NugetConsole.exe
+F:\Projects\NugetConsole\NugetConsole\bin\Release\NugetConsole.pdb
+F:\Projects\NugetConsole\NugetConsole\bin\Release\log4net.dll
+F:\Projects\NugetConsole\NugetConsole\bin\Release\NugetClass.dll
+F:\Projects\NugetConsole\NugetConsole\bin\Release\Nugetlog.dll
+F:\Projects\NugetConsole\NugetConsole\obj\Release\NugetConsole.exe
+F:\Projects\NugetConsole\NugetConsole\obj\Release\NugetConsole.pdb
+F:\Projects\NugetConsole\NugetConsole\obj\Release\NugetConsole.csprojResolveAssemblyReference.cache

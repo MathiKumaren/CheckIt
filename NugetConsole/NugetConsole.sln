@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetConsole", "NugetConsole\NugetConsole.csproj", "{86F06381-38E0-4676-A09A-C2377FA0765E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{A4A10F37-AF4B-43DC-822B-E97FBE697FBC}"
+	ProjectSection(SolutionItems) = preProject
+		Nuget.config = Nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F06381-38E0-4676-A09A-C2377FA0765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F06381-38E0-4676-A09A-C2377FA0765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F06381-38E0-4676-A09A-C2377FA0765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F06381-38E0-4676-A09A-C2377FA0765E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

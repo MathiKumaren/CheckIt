@@ -1,0 +1,5 @@
+F:\Projects\NugetConsole\NugetConsole\bin\Debug\NugetConsole.exe.config
+F:\Projects\NugetConsole\NugetConsole\bin\Debug\NugetConsole.exe
+F:\Projects\NugetConsole\NugetConsole\bin\Debug\NugetConsole.pdb
+F:\Projects\NugetConsole\NugetConsole\obj\Debug\NugetConsole.exe
+F:\Projects\NugetConsole\NugetConsole\obj\Debug\NugetConsole.pdb
